@@ -3,15 +3,20 @@ body {
     background-color: #f8f8f8;
     font-family: Arial, sans-serif;
 }
-
+.h3{
+	margin: 30px;
+	
+	text-align:center
+}
 .book-library {
     background-color: #ffffff;
     padding: 20px;
     max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
+    margin:  0 auto;
+    /* display: flex; */
     flex-wrap: wrap;
     gap: 20px;
+	text-align:center;
 }
 
 .book {
@@ -37,3 +42,4 @@ body {
     color: #2ecc71;
     font-weight: bold;
 }
+.
